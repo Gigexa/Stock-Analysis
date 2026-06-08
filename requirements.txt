@@ -1,0 +1,10 @@
+feedparser
+joblib
+numpy
+pandas
+newspaper3k
+scikit-learn
+yfinance
+requests
+lxml
+lxml_html_clean
